@@ -66,17 +66,6 @@ The **Dashboard** folder contains Power BI (.pbix) files with:
 
 ---
 
-## 👥 Team Contribution
-
-This project was completed as a **group internship project**, with collaborative contributions in:
-
-* Data modeling
-* Dashboard development
-* Business analysis
-* Documentation and presentation
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
