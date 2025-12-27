@@ -71,3 +71,17 @@ The **Dashboard** folder contains Power BI (.pbix) files with:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 👨‍💻 Author
+
+- GitHub: https://github.com/Ads-rush-out
+- Email: adarshkumarrout01@gmail.com
+- Linkedin: www.linkedin.com/in/adarsh-rout
+
+---
+
+<div align="center">
+  
+## 🖼️ Dashboard Preview
+
+![Dashboard_Preview]()
