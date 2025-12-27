@@ -79,15 +79,70 @@ The project was executed over **10 weeks**, following a structured and milestone
 
 ---
 
-## 📊 Dashboards & Modules Covered
+## 🧩 Modules Covered
 
-- Data Modeling & Ingestion  
-- Occupancy & Revenue Metrics  
-- Guest Analysis Module  
-- Forecasting & Cancellation Trends  
-- Revenue Strategy Dashboard  
-- General Manager (GM) Dashboard  
-- Revenue Manager (RM) Dashboard  
+### **Module 1: Data Modeling and Ingestion**
+- Ingested and cleaned booking, customer, room, and hotel branch data  
+- Designed a **Star Schema** with `FactBookings` at the center  
+- Connected dimensions: Date, Room, Customer, Hotel Branch  
+- Created derived fields such as booking duration, room category, and stay type  
+- Ensured data accuracy, scalability, and performance for analytics  
+
+---
+
+### **Module 2: Occupancy & Revenue Metrics**
+- Calculated key KPIs:
+  - **Occupancy %**
+  - **Average Daily Rate (ADR)**
+  - **Revenue per Available Room (RevPAR)**
+- Analyzed daily, weekly, and seasonal performance trends  
+- Compared **Direct vs OTA bookings** to assess commission impact  
+- Identified demand patterns and pricing opportunities  
+
+---
+
+### **Module 3: Guest Analysis**
+- Segmented guests by:
+  - Guest Type (Solo, Family, Business, Corporate)
+  - Customer Value (High Spenders, Loyal Guests, First-Timers)
+- Performed customer clustering using frequency and spend behavior  
+- Analyzed demographics, payment methods, and geographic distribution  
+- Identified high-value customer segments and acquisition gaps  
+
+---
+
+### **Module 4: Forecasting & Cancellation Trends**
+- Studied occupancy trends and future demand patterns  
+- Analyzed:
+  - Cancellation rates
+  - Lead time distribution
+  - Refunds and no-shows
+- Highlighted revenue leakage risks and operational uncertainty  
+- Supported capacity planning and overbooking strategies  
+
+---
+
+### **Module 5: Revenue Strategy Dashboard**
+- Built **decision-oriented dashboards** for:
+  - General Managers
+  - Revenue Managers
+- Analyzed ancillary service revenue (Spa, Dining, Gym, Laundry)  
+- Evaluated room-type revenue across seasons  
+- Implemented **What-If parameters** for:
+  - Occupancy sensitivity
+  - Price uplift scenarios
+- Enabled dynamic pricing and RevPAR optimization  
+
+---
+
+## 📊 Key Dashboards
+- **General Manager Dashboard**
+  - High-level view of revenue, occupancy, pricing, bookings, and services  
+  - Identifies trends, risks, and future outlook  
+
+- **Revenue Manager Dashboard**
+  - Focused on pricing, channel mix, guest segments, and cancellations  
+  - Supports yield management and revenue optimization  
 
 ---
 
