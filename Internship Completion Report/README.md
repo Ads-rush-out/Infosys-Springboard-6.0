@@ -177,6 +177,6 @@ The HotelRevAI project successfully demonstrates the application of data analyti
 
 ## 🙏 Acknowledgements
 
-We sincerely thank the mentors, coordinators, and reviewers of **Infosys Springboard Internship 6.0** for their valuable guidance and continuous support throughout the project.
+I sincerely thank the mentors, coordinators, and reviewers of **Infosys Springboard Internship 6.0** for their valuable guidance and continuous support throughout the project.
 
 ---
