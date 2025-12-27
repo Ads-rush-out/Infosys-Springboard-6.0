@@ -84,4 +84,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
 ## 🖼️ Dashboard Preview
 
-![Dashboard_Preview]()
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Performance%20Metrics.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Monthly%20Trends.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Booking%20Trends.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Guest%20Analysis.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/RFM%20Analysis.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Demographic%20Guest%20Segmentation.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Forecasting%20and%20Cancellation%20Trends.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Revenue%20Strategy.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Recommended%20Pricing%20Tiers.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/General%20Manager%20Dashboard.png)
+![Dashboard_Preview](https://github.com/Ads-rush-out/Infosys-Springboard-6.0/blob/main/Dashboard/Revenue%20Manager%20Dashboard.png)
+
+```
