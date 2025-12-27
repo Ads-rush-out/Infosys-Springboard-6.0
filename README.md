@@ -1,4 +1,4 @@
-# HotelRevAI – AI-Driven Revenue Analysis for Hotels (Group Project)
+# HotelRevAI – AI-Driven Revenue Analysis for Hotels
 
 ## 📌 Project Overview
 
