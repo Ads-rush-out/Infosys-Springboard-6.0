@@ -1,29 +1,16 @@
 # 📄 Internship Completion Report  
 ## HotelRevAI – AI-Driven Revenue Analysis for Hotels
 
-This repository contains the **Internship Completion Report** for the project **“HotelRevAI – AI-Driven Revenue Analysis for Hotels”**, developed as part of the **Infosys Springboard Virtual Internship 6.0**.
+This repository contains the **Internship Completion Report** for the project **“HotelRevAI – AI-Driven Revenue Analysis for Hotels”**, developed as part of the **Infosys Springboard Internship 6.0**.
 
 ---
 
 ## 🏢 Internship Details
 
-- **Program:** Infosys Springboard Virtual Internship 6.0  
-- **Duration:** 10 Weeks  
-- **Batch Number:** 1  
-- **Start Date:** 10 October 2025  
-
----
-
-## 👥 Team Details
-
-| Sr. No. | Name |
-|-------|------|
-| 1 | Aditya Gadilkar |
-| 2 | Diya Lodha |
-| 3 | Likhita Patnaik |
-| 4 | Sahithi Akula |
-| 5 | Adarsh Rout |
-| 6 | Neha Maram |
+- **Program:** Infosys Springboard Internship 6.0  
+- **Duration:** 8 Weeks + 2 Weeks  
+- **Start Date:** 13 October 2025
+- **End Date:** 13 December  2025 
 
 ---
 
@@ -135,6 +122,6 @@ The HotelRevAI project successfully demonstrates the application of data analyti
 
 ## 🙏 Acknowledgements
 
-We sincerely thank the mentors, coordinators, and reviewers of **Infosys Springboard Virtual Internship 6.0** for their valuable guidance and continuous support throughout the project.
+We sincerely thank the mentors, coordinators, and reviewers of **Infosys Springboard Internship 6.0** for their valuable guidance and continuous support throughout the project.
 
 ---
